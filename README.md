@@ -1,6 +1,10 @@
 # Self_Driving_Car_Semantic_Segmentation
-Semantic Segmentation for Self-Driving Cars using the Mapillary Dataset
 
+**Semantic Segmentation for Self-Driving Cars using the Mapillary Dataset**
+
+<img src="nb_images/image.png">
+
+## Description
 
 This project involves using Deep Neural Networks to identify people and objects on the road, to allow self driving cars to be better 'aware' of their sorroundings.
 
