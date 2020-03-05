@@ -59,6 +59,8 @@ The presentation for this project can be found online at https://www.canva.com/d
 
 A copy is also included in the repository as *Semantic Segmentation for Self-Driving Cars.pdf*
 
+A quick introduction to the project can be viewed at https://youtu.be/C7DsmqWw2g8
+
 ## References
 
 The references I used for this project are:
