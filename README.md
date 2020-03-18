@@ -12,6 +12,14 @@ It uses two neural network architectures to do two different tasks. The main tas
 
 The second neural network it uses is YOLOv3. This is used for object detection, but was not trained by me. Because it requires extensive computational resources, I just used pretrained weights. More details about the weights and the model can be found on https://pjreddie.com/darknet/yolo/
 
+## Presentation
+
+The presentation for this project can be found online at https://www.canva.com/design/DAD1fj1sdqM/J4MYX2xHc50keEciZFUqHg/view?utm_content=DAD1fj1sdqM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+
+A copy is also included in the repository as *Semantic Segmentation for Self-Driving Cars.pdf*
+
+A quick introduction to the project can be viewed at https://youtu.be/C7DsmqWw2g8
+
 ## Dataset
 
 The Mapillary Dataset contains about 25000 high resolution images of road situations from around the world. It has a labelled train set of 18000 images, a labelled validation set of 2000 images and a test set of 5000 unlabelled images.
@@ -53,13 +61,6 @@ There are some additional useful files as well:
 
 7. There are a few other miscellanous files such as *models.py*, *coco.names* and *utils.py*. These contain the implementation and additional functions for the YOLOv3 model.
 
-## Presentation
-
-The presentation for this project can be found online at https://www.canva.com/design/DAD1fj1sdqM/J4MYX2xHc50keEciZFUqHg/view?utm_content=DAD1fj1sdqM&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
-
-A copy is also included in the repository as *Semantic Segmentation for Self-Driving Cars.pdf*
-
-A quick introduction to the project can be viewed at https://youtu.be/C7DsmqWw2g8
 
 ## References
 
